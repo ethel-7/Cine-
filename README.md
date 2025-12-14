@@ -165,11 +165,11 @@ This application requires a **TMDB API Key** to function.
 *   **Role**: Senior Frontend Engineer & UI/UX Designer
 
 ### 🔗 Connect
-- **LinkedIn**: [Natnael Sintayehu](https://linkedin.com/in/natnael-sintayehu)
-- **GitHub**: [ethel-tech](https://github.com/ethel-tech)
-- **Website**: [Ethel Technologies](https://ethel-tech.com)
-- **Email**: contact@ethel-tech.com
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natnael-sintayehu-84b669254)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethel-7)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natnael_sintayehu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ethel.tech)
 
 ---
 
-*© 2024 Ethel Technologies. All Rights Reserved.*
+*© 2025 Ethel Technologies. All Rights Reserved.*
